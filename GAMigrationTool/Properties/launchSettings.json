@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GAMigrationTool": {
+      "commandName": "Project",
+      "commandLineArgs": "otpauth-migration://offline/?data=CjAKCrlQshUNlIgoknISEnhmaWxlRklOJ3MgQWNjb3VudBoIeGZpbGVGSU4gASgBMAIQARgBKNXJ3tcC"
+    }
+  }
+}
